@@ -3,18 +3,20 @@ Flomo + Alfred: select text or type in and  send it to flomo
 
 With full tags edition
 
+Flomo+Alfred：选择文本或键入并发送给Flomo
+
 ---
 
-注意：
+**注意**：
 
-该workflow改编自@WhiSilver（见fork）
+该workflow改编自@WhiSilver（见fork）感谢灵前辈灵感
 
 感谢原开发者@beeta（见workflow：Alfred2Flomo）
 
 适用于Alfred3+ 
 使用前请直接在配置处配置flomoApi
 
-Send2Flomo在前辈基础上优化几处：
+Send2FlomoNG在前辈基础上优化几处：
 
 1. 方便flomo API设置
 2. 支持输入标签，无标签，预设标签
