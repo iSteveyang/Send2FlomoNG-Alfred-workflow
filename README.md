@@ -27,13 +27,18 @@ Send2FlomoNG在前辈基础上优化几处：
 
 1. 下载workflow文件，双击打开
 
-2. Alfred preference 中进入workflow，点击右上角[X]，配置flomo api 
+2. Alfred preference 中进入workflow，点击右上角[X]，配置flomo api
+   
+   API查询：[Flomo API](https://flomoapp.com/mine?source=incoming_webhook)
+
    ![设置](./asset/setting.jpg)
 
    ![配置flomo api](./asset/setApi.jpg)
-   API查询：[Flomo API](https://flomoapp.com/mine?source=incoming_webhook)
 
-
+3. 配置预设标签
+   ![设置标签](./asset/preset.jpg)
+   ![预设标签设置](asset/setags.jpg)
+   
 # 使用说明
 以原作者WhiSilver的Send2Flomo演示。
 
