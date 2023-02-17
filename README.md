@@ -1,3 +1,7 @@
+**放弃快速k稳定，功能繁多的alfred 转投Raycast**
+
+---
+
 # Send2FlomoNG-Alfred-workflow
 Flomo + Alfred: select text or type in and  send it to flomo
 
